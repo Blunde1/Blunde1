@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Data Scientist in industry and an Adjunct Associate Professor in Statistics at [The University of Bergen](https://www.uib.no/).\
+🔭 I’m researching information theoretic approaches to make ML-algorithms adaptive to the problem/data at hand.\
+🌱 I’m currently learning more about databases, devops for ML and coding best-practices in general.\
+More information on my [web page](https://berentlunde.netlify.app/)
+
 <!--
 **Blunde1/Blunde1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
