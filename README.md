@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Data Scientist in industry and an Adjunct Associate Professor in Statistics at [The University of Bergen](https://www.uib.no/en/persons/Berent.%C3%85nund.Str%C3%B8mnes.Lunde).\
-🔭 I’m researching information theoretic approaches to make ML-algorithms adaptive to the problem/data at hand.\
-🌱 I’m currently learning more about databases, devops for ML and coding best-practices in general.\
+I work with computational statistics on a practical and theoretical level. I reside in Equinor.
+🔭 Generally researching information theoretic approaches to make ML-algorithms adaptive to the problem/data at hand.\
+🌱 Currently working on large scale ensemble based data assimilation.\
 More information on my [web page](https://berentlunde.netlify.app/)
 
 <!--
