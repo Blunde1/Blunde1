@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work with computational statistics on a practical and theoretical level. I reside in Equinor.
+I work with computational statistics on a practical and theoretical level. I reside in Equinor.\
 🔭 Generally researching information theoretic approaches to make ML-algorithms adaptive to the problem/data at hand.\
 🌱 Currently working on large scale ensemble based data assimilation.\
 More information on my [web page](https://berentlunde.netlify.app/)
